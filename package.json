@@ -1,0 +1,15 @@
+{
+  "name": "zevent-cagnote",
+  "version": "1.0.0",
+  "description": "Get donation of ZEvent",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Pierre Boudeaud <pboudeaud@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "node-fetch": "^2.6.1"
+  }
+}

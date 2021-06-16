@@ -1,0 +1,10 @@
+{
+    "webhook": {
+        "id": "SECRET_ID",
+        "token": "SECRET_TOKEN"
+    },
+    "general": {
+        "version": "2020",
+        "entity": "Amnesty International"
+    }
+}
