@@ -44,7 +44,7 @@ async function getDonationAmountFormatted() {
 async function sendMessage(msg) {
     const body = {
         "username": "ZEvent",
-        "avatar_url": "https://zevent.fr/assets/images/zevent.png",
+        "avatar_url": "https://static-cdn.jtvnw.net/jtv_user_pictures/93c018c2-8b80-4078-a04d-87b505f196ef-profile_image-600x600.png",
         "embeds": [{
             "description": msg,
             "color": 4962865,
